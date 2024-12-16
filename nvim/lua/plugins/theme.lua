@@ -1,1 +1,1 @@
-return { 'catppuccin/nvim', as = 'dracula' } 
+return { "catppuccin/nvim", as = "dracula" } 
